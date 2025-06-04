@@ -13,6 +13,8 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.10.0"
   },
+ "proxy": "http://localhost:5000",
+
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.8",
     "@vitejs/plugin-react": "^4.0.0",
@@ -20,6 +22,6 @@
     "postcss": "^8.5.4",
     "tailwindcss": "^4.1.8",
     "vite": "^5.4.19"
-  },
-  "proxy": "http://localhost:5000"
+  }
+ 
 }
